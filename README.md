@@ -65,3 +65,7 @@ To run this project, you need the following Python libraries:
 3. Run the Streamlit app to interact with the model:
    ```bash
     streamlit run app/app.py
+
+
+# Deployed on Steamlit
+https://fake-news-detector-zgepmlxgnhxmlisyp5mjvl.streamlit.app/
